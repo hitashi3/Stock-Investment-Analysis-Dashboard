@@ -1,0 +1,101 @@
+User ID,First Name,Last Name,Stock Name,Sector,Exchange,Payment Mode,Buy Date,Buy Price (₹),No. of Shares,Brokerage Paid (₹),Current Price (₹),Dividend %,52-Week High,52-Week Low,Status,Return %
+2825,Aarav,Nair,SBI,Finance,BSE,Net Banking,12-10-2020,3366.83,178,113.69,4085.86,,4197.44,2597.68,Hold,21.36
+4612,Kiran,Tiwari,Bajaj Finance,Finance,NSE,UPI,03-04-2024,3665.02,183,69.17,3614.41,1.47,4381.91,2795.78,Sold,-1.38
+9786,Rohan,Reddy,Infosys,IT,NSE,Demat Transfer,25-08-2024,2903.15,97,90.83,3916.02,0.71,4199.6,2370.59,Hold,34.89
+3665,Vikram,Pillai,Axis Bank,Finance,NSE,Demat Transfer,08-12-2023,4227.61,170,20.0,5452.48,2.9,5868.54,3620.19,Hold,28.97
+1917,Ananya,Verma,Tech Mahindra,IT,NSE,Demat Transfer,01-04-2022,1351.29,59,137.84,1664.93,3.73,1779.65,1168.63,Sold,23.21
+8020,Tanvi,Tiwari,Dr Reddy's,Pharma,NSE,Demat Transfer,25-03-2021,4488.5,40,81.33,3713.21,0.71,4691.47,3320.77,Sold,-17.27
+1189,Deepak,Patel,Power Grid,Energy,BSE,Demat Transfer,23-04-2024,2956.14,33,51.09,2614.51,0.51,3506.22,2393.65,Watch,-11.56
+9318,Raj,Joshi,ICICI Bank,Finance,NSE,Demat Transfer,10-04-2024,894.66,140,138.59,1126.47,2.7,1177.98,745.69,Hold,25.91
+2134,Gaurav,Mishra,Adani Ports,Infrastructure,BSE,Net Banking,19-09-2020,3036.93,145,33.12,3639.83,3.23,4519.95,2926.54,Hold,19.85
+8398,Rohan,Rao,SBI,Finance,BSE,UPI,23-11-2021,290.45,146,42.22,272.21,0.82,338.42,218.49,Hold,-6.28
+3168,Mohit,Tiwari,JSW Steel,Metal,NSE,Cheque,12-05-2021,3573.86,109,36.66,2974.85,2.44,3993.51,2550.68,Hold,-16.76
+2791,Ananya,Joshi,Axis Bank,Finance,NSE,Cheque,14-10-2020,2014.09,76,,3007.67,0.84,3626.78,1907.09,Hold,49.33
+4873,Neha,Chopra,Nestle India,Consumer,NSE,Cheque,13-03-2021,3918.0,20,33.05,2945.68,2.26,4831.28,2741.19,Hold,-24.82
+3537,Priya,Kumar,Axis Bank,Finance,NSE,UPI,01-04-2023,3363.67,20,,2686.19,3.13,3819.97,2541.47,Hold,-20.14
+4854,Amit,Patel,Divi's Labs,Pharma,BSE,Net Banking,31-03-2023,2756.43,163,21.48,3607.53,3.04,3942.18,2232.64,Hold,30.88
+2189,Aarav,Malhotra,Coal India,Energy,BSE,UPI,30-05-2020,2511.83,134,47.13,3876.43,4.46,4737.9,2097.36,Hold,54.33
+9667,Aarav,Mishra,Maruti Suzuki,Auto,NSE,UPI,03-12-2024,777.45,34,134.56,1073.7,1.2,1164.75,620.75,Hold,38.11
+1833,Aditya,Chopra,HCL Technologies,IT,BSE,Demat Transfer,31-03-2020,215.25,38,99.2,209.37,3.84,246.87,,Hold,-2.73
+7050,Sanjay,Mishra,ICICI Bank,Finance,NSE,Cheque,18-09-2020,379.86,98,135.86,541.95,4.37,664.84,303.25,Hold,42.67
+3533,Simran,Rao,Cipla,Pharma,NSE,Net Banking,26-06-2024,3686.32,110,13.47,5072.67,1.99,6260.12,3444.92,Hold,37.61
+4645,Priya,Malhotra,Sun Pharma,Pharma,NSE,Demat Transfer,07-08-2024,3619.99,63,41.21,4745.91,2.29,5144.94,2772.79,Hold,31.1
+1453,Rohan,Nair,Wipro,IT,BSE,Demat Transfer,19-03-2020,666.13,116,58.4,944.88,,1177.67,517.32,Watch,41.85
+4229,Vikram,Chopra,Infosys,IT,NSE,Demat Transfer,30-06-2023,1549.84,36,110.77,1558.01,1.89,1735.51,1305.82,Hold,0.53
+3852,Raj,Tiwari,Maruti Suzuki,Auto,NSE,Cheque,27-01-2023,3785.02,82,50.17,4221.83,3.11,4942.0,3243.56,Sold,11.54
+2390,Divya,Pandey,Power Grid,Energy,BSE,Demat Transfer,10-07-2020,3719.22,197,42.88,3770.76,4.13,3973.97,2828.95,Sold,1.39
+7292,Meera,Reddy,SBI,Finance,BSE,Net Banking,05-09-2023,3156.78,197,130.46,4743.52,4.0,5077.15,2951.42,Watch,50.26
+8613,Deepak,Pandey,Tata Steel,Metal,BSE,Demat Transfer,26-03-2024,4033.13,161,124.1,6082.84,2.42,7473.23,3438.49,Hold,50.82
+9541,Meera,Rao,Bajaj Finance,Finance,NSE,Cheque,07-06-2020,3268.24,65,48.04,3339.33,2.93,3512.39,2625.02,Hold,2.18
+4389,Shruti,Chopra,Dr Reddy's,Pharma,NSE,UPI,20-10-2024,3986.82,152,63.25,3010.1,2.08,4757.47,2848.44,Sold,-24.5
+5472,Suresh,Saxena,Reliance Industries,Energy,NSE,Cheque,19-11-2021,3076.16,108,111.39,4504.82,4.64,5611.05,2685.02,Sold,46.44
+3978,Vivaan,Nair,Dr Reddy's,Pharma,NSE,Demat Transfer,09-03-2021,2155.21,91,116.57,2310.94,3.88,2799.34,1741.46,Hold,7.23
+2125,Gaurav,Verma,Adani Ports,Infrastructure,BSE,UPI,21-05-2021,1057.25,10,96.99,1007.31,2.63,1106.21,975.06,Sold,-4.72
+2877,Gaurav,Mehta,Maruti Suzuki,Auto,NSE,UPI,31-03-2023,310.42,84,90.61,472.4,2.19,584.14,246.98,Watch,52.18
+2984,Riya,Tiwari,Tech Mahindra,IT,NSE,UPI,12-12-2021,2490.8,174,61.88,2939.31,2.04,3572.44,2339.2,Hold,18.01
+3886,Mohit,Pandey,NTPC,Energy,NSE,Demat Transfer,15-06-2023,3675.26,142,118.45,4208.7,4.22,4866.39,3028.89,Hold,14.51
+7210,Rahul,Sharma,Nestle India,Consumer,NSE,Demat Transfer,07-01-2021,2296.46,95,121.7,2386.68,4.46,2819.32,1868.27,Hold,3.93
+4938,Nitin,Saxena,NTPC,Energy,NSE,Cheque,06-07-2022,3609.61,28,51.19,3947.98,1.59,4629.84,3013.57,Watch,9.37
+5439,Divya,Nair,SBI,Finance,BSE,UPI,17-01-2024,1028.11,35,114.0,1602.05,3.61,1704.67,945.74,Hold,55.82
+4181,Divya,Rao,Sun Pharma,Pharma,NSE,Net Banking,11-09-2021,260.84,141,27.72,205.72,,283.58,198.96,Sold,-21.13
+1842,Pooja,Saxena,HDFC Bank,Finance,NSE,UPI,31-03-2022,2314.51,152,98.12,1841.35,1.17,2660.42,1509.69,Hold,-20.44
+9562,Amit,Malhotra,Britannia,Consumer,NSE,Cheque,31-08-2021,3898.72,114,52.75,4982.07,3.24,5929.76,3773.75,Hold,27.79
+3565,Aarav,Chopra,Hindustan Unilever,Consumer,BSE,Cheque,19-08-2021,340.35,78,108.97,458.64,2.54,540.32,327.59,Watch,34.76
+5353,Shruti,Gupta,Infosys,IT,NSE,UPI,05-12-2020,3608.3,157,114.85,4452.01,1.8,4668.38,,Sold,23.38
+8079,Mohit,Iyer,Coal India,Energy,BSE,Demat Transfer,22-02-2020,592.71,177,127.03,734.32,4.78,917.83,536.18,Hold,23.89
+5558,Neha,Tiwari,Asian Paints,Consumer,NSE,Cheque,05-07-2020,2221.04,109,56.66,2930.91,4.36,,2020.14,Hold,31.96
+5136,Rahul,Patel,Adani Ports,Infrastructure,BSE,Cheque,06-11-2024,2412.76,5,102.07,2922.35,2.36,3106.88,2010.33,Sold,21.12
+8179,Tanvi,Saxena,HDFC Bank,Finance,NSE,UPI,14-07-2023,2818.15,66,109.37,2857.99,0.56,3183.34,2259.26,Hold,1.41
+9338,Nitin,Nair,Asian Paints,Consumer,NSE,Cheque,25-08-2022,1248.04,146,30.25,1138.24,3.2,1487.22,889.42,Hold,-8.8
+1043,Divya,Kumar,HCL Technologies,IT,BSE,Cheque,07-11-2024,838.96,142,77.81,866.29,3.93,958.77,809.22,Hold,3.26
+6214,Mohit,Saxena,Larsen & Toubro,Infrastructure,NSE,Cheque,01-03-2022,4450.18,171,147.31,5211.29,0.67,5917.56,3941.71,Hold,17.1
+7718,Kavya,Gupta,Infosys,IT,NSE,Cheque,19-05-2024,4367.58,91,97.26,4751.32,0.86,5205.4,3953.11,Watch,8.79
+1589,Raj,Singh,SBI,Finance,BSE,Demat Transfer,10-04-2021,3411.1,116,146.97,4762.97,,4968.33,2688.85,Hold,39.63
+3386,Ananya,Pandey,Asian Paints,Consumer,NSE,Net Banking,14-12-2020,952.8,161,131.92,1216.49,1.58,1496.22,745.96,Sold,27.68
+5713,Deepak,Mishra,Wipro,IT,BSE,UPI,23-06-2022,4264.51,155,51.88,6685.58,3.61,7521.76,3494.71,Sold,56.77
+5838,Aarav,Reddy,Bajaj Finance,Finance,NSE,UPI,05-03-2023,3919.79,195,146.3,5973.86,3.85,7237.65,3753.89,Hold,52.4
+3241,Harish,Patel,Divi's Labs,Pharma,BSE,UPI,24-09-2021,3591.03,13,91.14,4928.71,0.91,5361.82,3310.64,Hold,37.25
+5466,Shruti,Mehta,Bajaj Finance,Finance,NSE,Cheque,09-07-2024,1469.11,91,122.59,1686.66,0.84,2012.95,,Sold,14.81
+9792,Rohan,Malhotra,Sun Pharma,Pharma,NSE,Demat Transfer,12-04-2023,1838.41,168,141.64,1548.11,1.55,1885.76,1475.93,Watch,-15.79
+5952,Harish,Chopra,HDFC Bank,Finance,NSE,Net Banking,02-04-2020,4268.92,82,149.43,3623.04,1.56,4882.09,3041.14,Hold,-15.13
+3532,Tanvi,Chopra,NTPC,Energy,NSE,UPI,03-09-2024,2304.19,109,141.47,2276.03,3.61,2465.42,1939.81,Hold,-1.22
+6877,Vivaan,Reddy,Bajaj Finance,Finance,NSE,Net Banking,07-09-2020,4280.75,121,22.83,3982.34,3.38,5322.48,3033.08,Hold,-6.97
+4395,Sanjay,Joshi,HCL Technologies,IT,BSE,Net Banking,03-11-2021,3529.78,157,10.4,5222.82,1.15,5483.43,2850.83,Hold,47.96
+6305,Aarav,Mehta,Bajaj Finance,Finance,NSE,,16-09-2020,3389.39,139,25.91,2725.15,2.52,3739.41,2415.96,Sold,-19.6
+9544,Divya,Malhotra,NTPC,Energy,NSE,UPI,04-05-2020,4493.92,107,69.68,3782.84,3.71,5042.27,3619.54,Hold,-15.82
+6328,Amit,Shah,Titan Company,Consumer,NSE,Demat Transfer,18-07-2022,2373.87,115,23.88,3196.45,4.34,3738.92,2200.25,Hold,34.65
+2558,Rahul,Chopra,Tata Motors,Auto,BSE,Demat Transfer,05-02-2022,4300.45,180,139.22,3470.74,4.24,4478.67,2680.14,Hold,-19.29
+3003,Suresh,Pillai,Cipla,Pharma,NSE,Cheque,12-11-2024,4138.13,18,145.58,5215.49,2.08,6013.05,3306.08,Sold,26.03
+4706,Riya,Chopra,Cipla,Pharma,NSE,UPI,01-06-2023,4195.06,182,47.44,3789.62,3.66,4577.09,3138.41,Hold,-9.66
+1503,Aditya,Pandey,Axis Bank,Finance,NSE,,09-05-2022,2150.68,45,61.81,2932.14,4.0,3373.56,1655.03,Hold,36.34
+7948,Meera,Shah,Hindustan Unilever,Consumer,BSE,Cheque,13-07-2021,1126.95,136,,1257.03,1.77,,971.35,Hold,11.54
+4461,Gaurav,Gupta,Adani Ports,Infrastructure,BSE,Demat Transfer,15-08-2021,1610.93,6,79.63,1797.89,1.08,2054.08,,Watch,11.61
+1308,Kiran,Singh,Cipla,Pharma,NSE,Demat Transfer,25-03-2023,2045.92,108,109.33,2260.82,1.02,2316.88,1687.26,Watch,10.5
+8139,Sanjay,Reddy,Titan Company,Consumer,NSE,UPI,21-03-2022,3943.25,195,57.53,4073.8,1.26,4633.59,3060.85,Watch,3.31
+3420,Ananya,Patel,ICICI Bank,Finance,NSE,Demat Transfer,08-02-2021,946.05,44,116.43,1236.66,1.3,1481.22,817.05,Watch,30.72
+6296,Kavya,Iyer,ICICI Bank,Finance,NSE,Cheque,19-05-2020,2216.36,166,,2179.73,0.75,2519.31,1790.42,Sold,-1.65
+2480,Raj,Shah,Titan Company,Consumer,NSE,Cheque,05-08-2022,2695.42,194,135.42,3051.95,4.14,3570.55,2220.89,Sold,13.23
+2382,Sneha,Mehta,TCS,IT,NSE,Net Banking,20-12-2023,2082.36,117,83.37,2641.13,,3251.56,1747.32,Hold,26.83
+7334,Divya,Nair,UltraTech Cement,Infrastructure,NSE,Net Banking,13-11-2021,550.46,174,29.8,576.52,4.85,680.67,462.47,Watch,4.73
+3094,Deepak,Pandey,Infosys,IT,NSE,Cheque,07-11-2022,1755.86,97,53.24,2736.5,2.04,3273.44,1394.44,Hold,55.85
+9627,Vivaan,Iyer,Divi's Labs,Pharma,BSE,Net Banking,08-05-2023,1819.9,46,35.32,2436.7,3.31,2991.32,1666.8,Hold,33.89
+8356,Ananya,Mishra,SBI,Finance,BSE,Demat Transfer,14-07-2024,3572.79,54,61.5,5555.91,4.93,6256.99,2911.14,Sold,55.51
+5097,Vivaan,Saxena,Cipla,Pharma,NSE,Demat Transfer,09-02-2023,4217.46,187,128.42,6214.39,1.78,7429.41,3427.71,Watch,47.35
+6728,Simran,Sharma,Asian Paints,Consumer,NSE,UPI,22-03-2022,2358.63,65,64.06,1932.58,1.51,2578.68,1493.48,Hold,-18.06
+3274,Gaurav,Saxena,Hindustan Unilever,Consumer,BSE,UPI,11-06-2020,281.72,60,126.89,342.71,3.77,391.16,218.49,Hold,21.65
+2030,Rohan,Saxena,Coal India,Energy,BSE,UPI,18-07-2023,2416.12,66,110.6,2410.28,0.51,2660.5,2124.07,Hold,-0.24
+9313,Riya,Pandey,Tata Steel,Metal,BSE,UPI,10-03-2022,3955.33,16,98.99,6264.78,1.64,6413.48,3683.83,Hold,58.39
+3186,Vivaan,Pillai,Tata Steel,Metal,BSE,Demat Transfer,24-07-2024,2964.02,180,,3974.99,3.34,4796.4,2266.03,Sold,34.11
+6081,Sneha,Reddy,HCL Technologies,IT,BSE,Cheque,02-06-2021,357.47,170,36.75,376.57,4.01,459.09,295.39,Hold,5.34
+6555,Neha,Saxena,Larsen & Toubro,Infrastructure,NSE,Cheque,22-01-2022,4174.54,137,47.34,3424.04,2.41,4671.48,3351.7,Hold,-17.98
+7982,Neha,Malhotra,Sun Pharma,Pharma,NSE,Cheque,27-03-2020,3325.3,95,96.08,3723.34,3.38,4475.6,2537.84,Sold,11.97
+8180,Vivaan,Gupta,Infosys,IT,NSE,Net Banking,13-05-2024,2974.2,97,63.6,3664.68,3.22,4310.34,2879.71,Hold,23.22
+5567,Ananya,Patel,Reliance Industries,Energy,NSE,Net Banking,19-10-2022,2426.3,148,26.49,3417.98,3.67,3655.02,2161.18,Sold,40.87
+2439,Riya,Iyer,Power Grid,Energy,BSE,Demat Transfer,24-12-2023,479.24,143,50.65,481.62,1.21,569.85,436.61,Hold,0.5
+9095,Aarav,Pillai,Tata Steel,Metal,BSE,Demat Transfer,15-08-2022,3655.75,146,28.17,5489.51,0.8,6102.01,3344.63,Sold,50.16
+2216,Kiran,Malhotra,Power Grid,Energy,BSE,Demat Transfer,19-09-2020,3975.23,146,99.57,3596.27,4.85,4450.28,3450.49,Hold,-9.53
+4695,Vikram,Pandey,Divi's Labs,Pharma,BSE,Demat Transfer,28-09-2024,539.1,55,98.91,656.74,1.06,715.62,470.47,Watch,21.82
+6532,Shruti,Tiwari,TCS,IT,NSE,UPI,15-06-2020,395.49,169,117.94,385.59,1.45,455.44,344.01,Hold,-2.5
+7654,Divya,Malhotra,Infosys,IT,NSE,UPI,19-11-2020,2090.3,128,75.02,2172.16,1.15,2646.0,1721.24,Hold,3.92
+8643,Rohan,Nair,Hindustan Unilever,Consumer,BSE,Net Banking,15-10-2020,616.29,79,142.35,914.91,2.38,1135.79,590.12,Hold,48.45
+8649,Meera,Kumar,Nestle India,Consumer,NSE,UPI,03-07-2020,4264.5,134,74.01,4070.97,3.13,4397.52,3316.67,Watch,-4.54
